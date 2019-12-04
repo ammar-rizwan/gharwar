@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751815516806",
+    "firebase_url": "https://gharwhar-2f890.firebaseio.com",
+    "project_id": "gharwhar-2f890",
+    "storage_bucket": "gharwhar-2f890.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751815516806:android:b4a2511050460467612707",
+        "android_client_info": {
+          "package_name": "worthywalk.example.com.gharwhar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751815516806-q7va9a5nm5c10uhf9cbor3o569b0okfh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "worthywalk.example.com.gharwhar",
+            "certificate_hash": "457fd8f7a99ce8f249d1c436e1f8defaf566ba25"
+          }
+        },
+        {
+          "client_id": "751815516806-nm1kqbfg6fu556fe5cs7p26h0gl6dvb8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Y40VCpboFQeiRZ1uwh9Pc86CnqoZELA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751815516806-nm1kqbfg6fu556fe5cs7p26h0gl6dvb8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Ghar Whar</string>
+    <string name="Open">Open</string>
+    <string name="Close">Close</string>
+
+
+    <string-array name="category">
+        <item>House</item>
+        <item>Appartment</item>
+        <item>Land</item>
+        <item>Shop</item>
+
+    </string-array>
+    <string-array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="meter">
+        <item>Sq/Ft</item>
+        <item>Marla</item>
+
+    </string-array>
+
+    <string-array name="rooms">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+
+    </string-array>
+    <string-array name="baths">
+        <item>-</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+
+    </string-array>
+</resources>
